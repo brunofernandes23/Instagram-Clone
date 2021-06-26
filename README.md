@@ -4,6 +4,10 @@ Nesse projeto estou recriando a home page básica do instagram. Projeto realizad
 
 Nesse projeto foi usado o conceito de Flexbox, onde pude ter contato e experiência com responsividade.
 
+Abra o site por aqui:
+https://youthful-mahavira-bc176c.netlify.app
+
+
 Espero que gostem!
 
 Code is life! xD
