@@ -1,13 +1,13 @@
-Olá, aqui é o Bruno Fernandes! 
+Hi, this is Bruno Fernandes!
 
-Nesse projeto estou recriando a home page básica do instagram. Projeto realizado a partir do bootcamp HTML Developer da Digital Inovation One!
+In this project I am recreating the basic instagram home page. Project made from the bootcamp HTML Developer of Digital Innovation One!
 
-Nesse projeto foi usado o conceito de Flexbox, onde pude ter contato e experiência com responsividade.
+In this project, the Flexbox concept was used, where I could have contact and experience with responsiveness.
 
-Abra o site por aqui:
+Open the site here:
 https://youthful-mahavira-bc176c.netlify.app
 
 
-Espero que gostem!
+Hope you like it!
 
 Code is life! xD
